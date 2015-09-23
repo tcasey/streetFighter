@@ -20,11 +20,8 @@ body {
 	height: 494px;
 }
 
-<<<<<<< HEAD
-.ryu-still, .ryu-ready, .ryu-throwing, .ryu-cool {
-=======
 .ryu-action {
->>>>>>> master
+
 	width: 659px;
 	height: 494px;
 }
@@ -47,15 +44,13 @@ body {
 	background-image: url('../images/ryu-throwing-hadouken.png');
 	
 }
-<<<<<<< HEAD
 
-=======
 .ryu-cool {
 	background-image: url('../images/ryu-cool.gif');
 	
 }
->>>>>>> master
-.hadouken, .ryu-still, .ryu-ready, .ryu-throwing, .ryu-cool {
+
+.hadouken, .ryu-action {
 	background-repeat: no-repeat;
 }
 .ryu-cool {
